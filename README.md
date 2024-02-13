@@ -34,10 +34,11 @@ Welcome to github page here you will see some of my projects and ideas and a pin
 
  &nbsp;
 
-#### Embed Systems
+#### Embedded Systems
 
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![ARDUINO](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white)
+![LINUX](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
  &nbsp;
 
