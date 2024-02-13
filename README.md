@@ -9,28 +9,58 @@ Welcome to github page here you will see some of my projects and ideas and a pin
 
 <h2>Here Is My Status</h2>
 
-<div>
-      <a href="https://github.com/asimovc">
-      <img height="130em" src="https://github-readme-stats.vercel.app/api?username=asimovc&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-      <img height="130em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=asimovc&layout=compact&langs_count=7&theme=dracula"/>
-</div>
-        
-<div>
-  <img align="center" height="50" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" height="50" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" height="40" widht="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg">
-  <img align="center" height="50" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  <img align="center" height="60" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg">
-  <img align="center" height="50" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg">
-  <img align="center" height="50" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/gentoo/gentoo-original.svg">
-  <img align="center" height="50" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vim/vim-original.svg">
-  <img align="center" height="50" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg">
-  <img align="center" height="50" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/arduino/arduino-original.svg">
+<div  align="center" style="margin-bottom:100px">
+
+![Fraga GitHub stats](https://github-readme-stats.vercel.app/api?username=asimovc&show_icons=true&theme=radical&count_private=true)
+ 
 </div>
 
-<h2>Go Check My Social Media</h2>
+<div  align="center" style="margin-bottom:100px">
+ 
+<img width=55% align="center"  src="https://github-readme-streak-stats.herokuapp.com?user=asimovc&theme=radical&mode=weekly" />
 
-<a href="https://gifs.alphacoders.com/gifs/view/35697"><img height="250px" src="https://giffiles.alphacoders.com/356/35697.gif"></a>
+</div>
+
+
+
+
+## Skills
+
+#### Web Development
+
+![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=white)
+
+ &nbsp;
+
+#### Embed Systems
+
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![ARDUINO](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white)
+
+ &nbsp;
+
+#### Tools
+
+![GENTOO](https://img.shields.io/badge/Gentoo-54487A?style=for-the-badge&logo=gentoo&logoColor=white)
+![NEOVIM](https://img.shields.io/badge/NeoVim-%2357A143.svg?&style=for-the-badge&logo=neovim&logoColor=white)
+![BASH](https://img.shields.io/badge/GNU%20Bash-4EAA25?style=for-the-badge&logo=GNU%20Bash&logoColor=white)
+![GIT](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
+
+ &nbsp;
+
+#### Studying
+
+![REACT](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![NODEJS](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
+
+ &nbsp;
+ &nbsp;
+
+## Go Check My Social Media
+
+<a href="https://gifs.alphacoders.com/gifs/view/35697"><img height="150px" src="https://giffiles.alphacoders.com/356/35697.gif"></a>
           
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/)](https://www.linkedin.com/in/mederim-oliveira-3009931a0/)
-[![Instagram Badge](https://img.shields.io/badge/-Instagram-C13584?style=flat-square&labelColor=C13584&logo=instagram&logoColor=white&link=https://www.instagram.com/l)](https://www.instagram.com/mederim.sh/)
+[![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mederim-oliveira-3009931a0/)
+[![Instagram Badge](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/mederim.sh/)
