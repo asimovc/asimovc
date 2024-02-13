@@ -1,23 +1,28 @@
-<h1 align="center">
+<h1 align = "center">
   <br>Hi I'am Mederim Oliveira👋</br>
-  <a href="https://tenor.com/view/meme-anime-jojos-jojo-bizarre-gif-18202893"><img height="300px" src="https://tenor.com/view/meme-anime-jojos-jojo-bizarre-gif-18202893.gif"></a>
+  <a href = "https://tenor.com/view/meme-anime-jojos-jojo-bizarre-gif-18202893"><img height = "300px" src = "https://tenor.com/view/meme-anime-jojos-jojo-bizarre-gif-18202893.gif"></a>
 </h1>
 
 Hello my name is Mederim Oliveira, I am an Automation Engineering student at UFMT and a Front End Developer.
 
 Welcome to github page here you will see some of my projects and ideas and a pinch of love for programming, embedd systems, web development, linux and open source. ;]
 
-<h2>Here Is My Status</h2>
+ &nbsp;
 
-<div  align="center" style="margin-bottom:100px">
+
+ 
+
+<h2 align = "center">Here Is My Status</h2>
+
+<div  align = "center" style = "margin-bottom:100px">
 
 ![Fraga GitHub stats](https://github-readme-stats.vercel.app/api?username=asimovc&show_icons=true&theme=radical&count_private=true)
  
 </div>
 
-<div  align="center" style="margin-bottom:100px">
+<div  align = "center" style = "margin-bottom:100px">
  
-<img width=55% align="center"  src="https://github-readme-streak-stats.herokuapp.com?user=asimovc&theme=radical&mode=weekly" />
+<img width = 55% align = "center" src="https://github-readme-streak-stats.herokuapp.com?user=asimovc&theme=radical&mode=weekly"/>
 
 </div>
 
@@ -46,7 +51,7 @@ Welcome to github page here you will see some of my projects and ideas and a pin
 
 ![GENTOO](https://img.shields.io/badge/Gentoo-54487A?style=for-the-badge&logo=gentoo&logoColor=white)
 ![NEOVIM](https://img.shields.io/badge/NeoVim-%2357A143.svg?&style=for-the-badge&logo=neovim&logoColor=white)
-![BASH](https://img.shields.io/badge/GNU%20Bash-4EAA25?style=for-the-badge&logo=GNU%20Bash&logoColor=white)
+![SHELL](https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white)
 ![GIT](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
 
  &nbsp;
@@ -59,9 +64,12 @@ Welcome to github page here you will see some of my projects and ideas and a pin
  &nbsp;
  &nbsp;
 
+
+
+
 ## Go Check My Social Media
 
-<a href="https://gifs.alphacoders.com/gifs/view/35697"><img height="150px" src="https://giffiles.alphacoders.com/356/35697.gif"></a>
+<a href="https://gifs.alphacoders.com/gifs/view/35697"><img height="135px" src="https://giffiles.alphacoders.com/356/35697.gif"></a>
           
 [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mederim-oliveira-3009931a0/)
 [![Instagram Badge](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/mederim.sh/)
