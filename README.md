@@ -39,6 +39,12 @@ Welcome to github page here you will see some of my projects and ideas and a pin
 
  &nbsp;
 
+### Back End
+
+![JAVA](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+
+ &nbsp;
+
 #### Embedded Systems
 
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
